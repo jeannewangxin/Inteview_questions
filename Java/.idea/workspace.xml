@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba5c01f8-727d-4b78-93ce-3055f1b666d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WUa9uFEmgphrR0bzIhbKu5dwDv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Poker" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Poker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba5c01f8-727d-4b78-93ce-3055f1b666d6" name="Default Changelist" comment="" />
+      <created>1579206479272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579206479272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="298" key="GridCell.Tab.0.bottom" timestamp="1579208669730">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="298" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579208669730" />
+    <state width="1238" height="298" key="GridCell.Tab.0.center" timestamp="1579208669728">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="298" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579208669728" />
+    <state width="1238" height="298" key="GridCell.Tab.0.left" timestamp="1579208669727">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="298" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579208669727" />
+    <state width="1238" height="298" key="GridCell.Tab.0.right" timestamp="1579208669729">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="298" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579208669729" />
+    <state x="296" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1579206483991">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="296" y="234" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1579206483991" />
+  </component>
+</project>
