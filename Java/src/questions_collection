@@ -1,0 +1,37 @@
+1.面向对象特征：
+	A.抽象
+	B.继承
+	C.多态
+	D.封装
+
+2.访问修饰符public,protected,private以及不写的区别：
+3.基本数据类型？String？
+4.int和Integer区别？
+5.&和&&区别？
+6.栈（stack),堆(heap)和方法区(method area):
+7.Math.rount(-11.5)=? Math.rount(11.5)=?（举例）
+	答：进行下取整 Math.rount(-11.5）= -11，Math.rount(11.5）= 12
+8.switch是否能作用在byte上，是否能作用在long上，是否能作用在String上？
+9.用最有效率的方法计算2乘以8？
+10.在Java中，如何跳出当前的多重嵌套循环
+11.构造器（constructor）是否可被重写（override）
+12.两个对象值相同(x.equals(y) == true)，但却可有不同的hash code？
+	答：不对，如果两个对象x和y满足x.equals(y) == true，它们的哈希码（hash code）应当相同。Java对于eqauls方法和hashCode方法是这样规定的：
+ 	 (1) 如果两个对象相同（equals方法返回true），那么它们的hashCode值一定要相同；
+  	 (2) 如果两个对象的hashCode相同，它们并不一定相同。
+13.是否可以继承String类？
+	答：String 类是final类，不可以被继承。
+14.String和StringBuilder、StringBuffer的区别？
+15.重载（Overload）和重写（Override）的区别。重载的方法能否根据返回类型进行区分？
+16.描述一下JVM加载class文件的原理机制
+17.char 型变量中能不能存贮一个中文汉字，为什么？
+	答：char类型可以存储一个中文汉字，因为Java中使用的编码是Unicode（不选择任何特定的编码，直接使用字符在字符集中的编号，这是统一的唯一方法），一个char类型占2个字节（16比特），所以放一个中文是没问题的。
+18.抽象类（abstract class）和接口（interface）有什么异同？
+19.静态嵌套类（Static Nested Class）和内部类（Inner Class）的不同？
+20.Java中会存在内存泄漏吗？请简单描述。
+21.抽象的（abstract）方法是否可同时是静态的（static），是否可同时是本地方法（native），是否可同时被synchronized修饰
+22.阐述静态变量和实例变量的区别
+23.是否可以从一个静态（static）方法内部发出对非静态（non-static）方法的调用
+24.如何实现对象克隆
+25.GC是什么？为什么要有GC
+26.String s = new String("xyz");创建了几个字符串对象
